@@ -19,7 +19,8 @@ Before you begin, ensure you have met the following requirements:
 <br>
 3- Vagrant Plugins: Necessary plugins to extend Vagrant's functionality. Install the hostmanager plugin by executing the following command in your terminal: 
 <br>
-![Screenshot from 2024-07-21 21-21-16](https://github.com/user-attachments/assets/b2727fe1-c280-4e2a-8a29-9497b6442568)
+![Screenshot from 2024-07-21 23-10-16](https://github.com/user-attachments/assets/b9000f82-b7f5-4f79-a60e-87c8c7f97fe7)
+
 <br>
 4- Git bash or equivalent editor
 
