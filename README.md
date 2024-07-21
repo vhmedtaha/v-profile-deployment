@@ -2,6 +2,10 @@
 
 ![Screenshot from 2024-07-21 21-22-53](https://github.com/user-attachments/assets/a1dc8b31-7e0b-4446-81ad-c9fab150f355)
 
+
+NOTE : This is manual method, I will upload the files that automate the process
+
+
  
 # Introduction
 
