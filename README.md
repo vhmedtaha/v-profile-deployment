@@ -65,6 +65,8 @@ To ensure proper setup and functioning, the services should be set up in the fol
 <h3> 1- Login to the db vm </h3>
 $ vagrant ssh db01
 <br>
+$ sudo -i
+<br>
 <h3> 2- Update OS with latest patches </h3>
 # yum update -y
 <br>
