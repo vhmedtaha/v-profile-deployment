@@ -141,6 +141,8 @@ h3> 9- Restart mariadb-server </h3>
 <h3>1- Login to the Memcache vm</h3>
 $ vagrant ssh mc01
 <br>
+$ sudo -i
+<br>
 <h3>2- Update OS with latest patches </h3>
 # yum update -y
 <br>
@@ -164,6 +166,8 @@ $ vagrant ssh mc01
 # 3.RABBITMQ SETUP
 <h3>1- Login to the RabbitMQ vm </h3>
 $ vagrant ssh rmq01
+<br>
+$ sudo -i
 <br>
 <h3>2- Update OS with latest patches</h3>
 # yum update -y
@@ -197,6 +201,8 @@ $ vagrant ssh rmq01
 
 <h3>1- Login to the tomcat vm</h3>
 $ vagrant ssh app01
+<br>
+$ sudo -i
 <br>
 <h3>2- Update OS with latest patches</h3>
 # yum update -y
