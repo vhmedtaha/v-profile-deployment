@@ -348,7 +348,8 @@ proxy_pass http://vproapp;
 <h2>well done you just setuped NGINX </h2>
 
 
-<h1> congratulations you just deployed the V-PROFILE application </h1>
+<h1> congratulations you just deployed the V-PROFILE application manually  </h1>
+
 
 
 
